@@ -1,0 +1,1001 @@
+merchant_mcc,bonuses_available
+beauty and personal care,"['welcome', 'cashback', 'discount', 'loyalty', 'early-access', 'gift']"
+beauty and personal care,[]
+books and media,"['cashback', 'early-access']"
+automotive,"['welcome', 'discount']"
+garden and outdoor,"['gift', 'discount', 'up-sell', 'loyalty', 'cashback', 'welcome']"
+office supplies,"['cashback', 'early-access', 'gift']"
+garden and outdoor,"['up-sell', 'early-access', 'cashback', 'welcome']"
+travel and leisure,"['up-sell', 'loyalty', 'cashback', 'early-access', 'welcome']"
+fashion,"['cashback', 'gift', 'loyalty', 'up-sell', 'early-access']"
+baby and kids,['discount']
+art and crafts,"['welcome', 'cashback', 'discount', 'loyalty', 'early-access', 'gift']"
+food and beverages,"['discount', 'up-sell', 'welcome', 'gift', 'cashback', 'early-access']"
+baby and kids,"['cashback', 'welcome', 'early-access', 'discount', 'loyalty', 'up-sell']"
+party supplies,['early-access']
+baby and kids,[]
+home and kitchen,"['loyalty', 'early-access', 'cashback', 'welcome', 'up-sell', 'gift', 'discount']"
+pet supplies,"['early-access', 'gift', 'cashback', 'discount', 'loyalty', 'welcome', 'up-sell']"
+toys and games,['gift']
+education and learning,"['early-access', 'gift', 'welcome', 'cashback']"
+industrial and scientific,[]
+electronics,"['welcome', 'early-access', 'loyalty', 'cashback', 'up-sell', 'discount']"
+education and learning,"['discount', 'up-sell', 'gift', 'early-access', 'cashback', 'loyalty', 'welcome']"
+beauty and personal care,"['loyalty', 'welcome']"
+books and media,['early-access']
+electronics,"['early-access', 'welcome', 'loyalty']"
+garden and outdoor,"['gift', 'loyalty']"
+travel and leisure,"['welcome', 'discount', 'cashback']"
+sports and fitness,"['cashback', 'welcome', 'gift', 'loyalty', 'up-sell', 'early-access', 'discount']"
+garden and outdoor,[]
+art and crafts,"['loyalty', 'discount', 'up-sell']"
+music,[]
+pet supplies,[]
+home and kitchen,"['cashback', 'early-access', 'up-sell', 'discount', 'welcome', 'loyalty']"
+music,"['up-sell', 'early-access', 'gift', 'cashback', 'welcome', 'discount', 'loyalty']"
+travel and leisure,"['up-sell', 'welcome', 'discount', 'cashback', 'loyalty']"
+home and kitchen,"['up-sell', 'gift', 'discount', 'cashback', 'early-access', 'loyalty', 'welcome']"
+toys and games,"['gift', 'loyalty', 'cashback', 'discount']"
+art and crafts,"['up-sell', 'loyalty', 'early-access']"
+pet supplies,"['loyalty', 'discount', 'cashback', 'up-sell', 'gift', 'early-access', 'welcome']"
+toys and games,"['discount', 'gift', 'welcome']"
+garden and outdoor,"['loyalty', 'early-access']"
+toys and games,"['welcome', 'cashback', 'gift', 'discount', 'early-access', 'up-sell', 'loyalty']"
+electronics,"['discount', 'early-access', 'loyalty', 'up-sell', 'gift']"
+fashion,['discount']
+travel and leisure,['up-sell']
+food and beverages,['up-sell']
+food and beverages,"['discount', 'early-access', 'gift', 'welcome', 'up-sell', 'loyalty', 'cashback']"
+baby and kids,['gift']
+fashion,"['early-access', 'cashback', 'welcome', 'up-sell', 'discount', 'gift', 'loyalty']"
+baby and kids,['loyalty']
+home and kitchen,"['discount', 'loyalty', 'early-access']"
+art and crafts,"['gift', 'welcome', 'loyalty', 'discount', 'up-sell', 'early-access', 'cashback']"
+books and media,"['cashback', 'welcome', 'loyalty', 'early-access', 'up-sell', 'discount', 'gift']"
+beauty and personal care,"['discount', 'gift', 'cashback', 'early-access']"
+food and beverages,"['early-access', 'up-sell']"
+travel and leisure,"['loyalty', 'cashback', 'gift']"
+travel and leisure,"['early-access', 'up-sell', 'discount', 'welcome', 'loyalty', 'cashback', 'gift']"
+baby and kids,['welcome']
+pet supplies,"['cashback', 'loyalty', 'early-access', 'welcome', 'gift']"
+fashion,"['up-sell', 'welcome']"
+baby and kids,"['cashback', 'early-access', 'up-sell', 'discount']"
+pet supplies,"['welcome', 'discount', 'up-sell', 'loyalty', 'gift']"
+music,"['gift', 'loyalty', 'up-sell', 'cashback', 'discount', 'early-access', 'welcome']"
+books and media,"['welcome', 'early-access', 'up-sell', 'discount']"
+music,"['up-sell', 'early-access']"
+automotive,"['welcome', 'up-sell', 'gift']"
+automotive,"['early-access', 'gift', 'loyalty', 'welcome', 'cashback']"
+industrial and scientific,"['loyalty', 'discount', 'cashback', 'welcome']"
+fashion,"['discount', 'gift', 'up-sell', 'early-access', 'welcome']"
+fashion,['cashback']
+automotive,[]
+art and crafts,"['loyalty', 'gift', 'up-sell', 'early-access', 'cashback']"
+automotive,"['gift', 'early-access', 'up-sell', 'loyalty']"
+music,"['welcome', 'discount', 'up-sell']"
+party supplies,"['early-access', 'discount', 'cashback']"
+home and kitchen,"['gift', 'cashback']"
+travel and leisure,['welcome']
+fashion,"['loyalty', 'cashback', 'early-access', 'gift', 'welcome', 'up-sell']"
+baby and kids,"['up-sell', 'early-access', 'gift', 'cashback', 'loyalty', 'discount']"
+travel and leisure,"['gift', 'cashback', 'early-access', 'loyalty', 'welcome', 'discount', 'up-sell']"
+art and crafts,"['gift', 'up-sell']"
+baby and kids,['gift']
+books and media,"['cashback', 'welcome', 'loyalty', 'discount', 'gift', 'up-sell', 'early-access']"
+home and kitchen,"['up-sell', 'discount', 'welcome', 'loyalty', 'early-access']"
+office supplies,"['discount', 'early-access', 'gift', 'cashback']"
+electronics,"['loyalty', 'up-sell']"
+travel and leisure,[]
+automotive,"['loyalty', 'early-access', 'cashback', 'welcome']"
+home and kitchen,"['welcome', 'early-access', 'cashback', 'up-sell', 'discount']"
+automotive,"['discount', 'cashback', 'gift', 'loyalty', 'welcome', 'up-sell', 'early-access']"
+art and crafts,"['early-access', 'gift']"
+pet supplies,['early-access']
+education and learning,"['cashback', 'loyalty', 'early-access', 'discount', 'up-sell', 'welcome']"
+art and crafts,"['gift', 'welcome', 'loyalty', 'early-access']"
+party supplies,"['up-sell', 'gift', 'welcome', 'early-access']"
+books and media,[]
+party supplies,"['early-access', 'cashback', 'up-sell']"
+electronics,['gift']
+industrial and scientific,"['welcome', 'discount']"
+books and media,"['early-access', 'gift', 'up-sell']"
+art and crafts,['early-access']
+industrial and scientific,"['cashback', 'up-sell', 'welcome', 'early-access', 'gift']"
+pet supplies,"['loyalty', 'cashback', 'welcome', 'discount', 'early-access', 'gift']"
+beauty and personal care,['welcome']
+industrial and scientific,"['discount', 'loyalty']"
+toys and games,"['early-access', 'welcome', 'loyalty', 'discount']"
+travel and leisure,"['welcome', 'up-sell']"
+pet supplies,"['welcome', 'gift']"
+fashion,"['cashback', 'welcome', 'discount', 'loyalty']"
+travel and leisure,"['discount', 'cashback', 'welcome', 'up-sell', 'gift']"
+food and beverages,"['cashback', 'up-sell', 'gift']"
+music,['discount']
+fashion,"['cashback', 'up-sell', 'early-access', 'welcome', 'loyalty']"
+electronics,"['gift', 'loyalty', 'welcome', 'discount', 'cashback', 'up-sell']"
+food and beverages,"['discount', 'up-sell']"
+travel and leisure,"['welcome', 'gift', 'up-sell', 'loyalty', 'early-access', 'cashback', 'discount']"
+food and beverages,"['up-sell', 'cashback', 'welcome', 'early-access', 'loyalty', 'discount']"
+toys and games,[]
+fashion,"['discount', 'up-sell', 'early-access', 'cashback', 'loyalty', 'welcome', 'gift']"
+fashion,"['gift', 'up-sell']"
+party supplies,['discount']
+beauty and personal care,"['gift', 'welcome', 'loyalty', 'discount', 'up-sell', 'early-access']"
+education and learning,"['gift', 'discount', 'early-access', 'cashback', 'loyalty']"
+food and beverages,"['discount', 'loyalty', 'cashback', 'early-access', 'welcome']"
+sports and fitness,[]
+education and learning,"['welcome', 'early-access', 'loyalty', 'cashback', 'discount', 'up-sell', 'gift']"
+industrial and scientific,['early-access']
+beauty and personal care,[]
+art and crafts,['discount']
+music,"['cashback', 'loyalty', 'welcome', 'up-sell', 'gift']"
+office supplies,"['cashback', 'welcome', 'loyalty']"
+electronics,"['gift', 'early-access', 'discount', 'loyalty']"
+beauty and personal care,"['early-access', 'gift', 'loyalty', 'up-sell']"
+garden and outdoor,"['welcome', 'discount', 'cashback', 'loyalty', 'early-access']"
+books and media,"['welcome', 'discount', 'up-sell', 'cashback', 'early-access', 'gift']"
+party supplies,"['welcome', 'up-sell']"
+sports and fitness,['loyalty']
+health and wellness,"['up-sell', 'gift', 'discount']"
+books and media,[]
+industrial and scientific,"['gift', 'up-sell', 'cashback', 'welcome']"
+travel and leisure,[]
+pet supplies,"['early-access', 'cashback', 'discount', 'welcome', 'up-sell', 'loyalty']"
+garden and outdoor,"['up-sell', 'welcome', 'loyalty', 'gift', 'early-access']"
+travel and leisure,"['discount', 'welcome', 'cashback', 'loyalty', 'up-sell', 'gift', 'early-access']"
+food and beverages,"['welcome', 'loyalty', 'gift', 'up-sell', 'cashback', 'discount']"
+beauty and personal care,['welcome']
+garden and outdoor,"['early-access', 'welcome', 'up-sell', 'discount', 'loyalty', 'gift']"
+home and kitchen,"['loyalty', 'discount', 'welcome', 'gift', 'cashback', 'up-sell', 'early-access']"
+education and learning,"['early-access', 'welcome', 'cashback', 'gift', 'up-sell', 'discount', 'loyalty']"
+music,"['early-access', 'gift', 'welcome', 'loyalty', 'up-sell']"
+art and crafts,[]
+automotive,"['welcome', 'early-access', 'gift', 'up-sell', 'loyalty', 'discount']"
+music,['up-sell']
+travel and leisure,"['early-access', 'up-sell', 'gift']"
+electronics,"['cashback', 'early-access', 'gift', 'welcome', 'loyalty', 'up-sell', 'discount']"
+baby and kids,"['up-sell', 'loyalty', 'welcome', 'early-access', 'cashback']"
+education and learning,['up-sell']
+books and media,"['gift', 'up-sell']"
+health and wellness,"['cashback', 'early-access', 'up-sell', 'gift', 'welcome']"
+food and beverages,"['early-access', 'welcome']"
+fashion,"['discount', 'up-sell']"
+travel and leisure,"['discount', 'up-sell', 'gift', 'loyalty', 'welcome']"
+garden and outdoor,"['up-sell', 'discount', 'gift', 'early-access']"
+electronics,"['welcome', 'loyalty']"
+baby and kids,[]
+travel and leisure,"['loyalty', 'early-access', 'gift', 'welcome', 'up-sell']"
+books and media,"['gift', 'early-access', 'cashback', 'discount', 'up-sell', 'loyalty', 'welcome']"
+travel and leisure,"['loyalty', 'welcome', 'cashback', 'gift', 'early-access']"
+food and beverages,[]
+food and beverages,"['cashback', 'up-sell', 'loyalty']"
+food and beverages,"['gift', 'discount', 'cashback', 'loyalty', 'up-sell', 'welcome', 'early-access']"
+office supplies,[]
+beauty and personal care,"['welcome', 'up-sell', 'early-access', 'loyalty', 'cashback']"
+art and crafts,"['gift', 'up-sell', 'discount']"
+fashion,[]
+books and media,"['discount', 'loyalty', 'gift']"
+health and wellness,"['discount', 'up-sell']"
+food and beverages,"['loyalty', 'welcome']"
+toys and games,"['welcome', 'early-access', 'loyalty', 'cashback']"
+home and kitchen,"['loyalty', 'discount', 'cashback', 'early-access', 'up-sell']"
+office supplies,"['up-sell', 'early-access']"
+travel and leisure,['welcome']
+sports and fitness,"['early-access', 'loyalty']"
+books and media,"['gift', 'discount', 'early-access', 'cashback', 'up-sell', 'welcome']"
+fashion,"['early-access', 'up-sell', 'discount']"
+sports and fitness,"['loyalty', 'welcome', 'discount', 'early-access', 'up-sell']"
+party supplies,"['loyalty', 'gift', 'welcome', 'cashback', 'discount', 'up-sell', 'early-access']"
+baby and kids,"['early-access', 'gift', 'up-sell', 'discount', 'loyalty', 'cashback']"
+toys and games,"['gift', 'discount', 'up-sell', 'cashback', 'early-access']"
+garden and outdoor,"['discount', 'up-sell', 'cashback', 'welcome', 'gift', 'early-access', 'loyalty']"
+art and crafts,"['cashback', 'loyalty', 'discount']"
+travel and leisure,"['up-sell', 'loyalty', 'discount', 'early-access', 'cashback', 'welcome']"
+sports and fitness,['discount']
+art and crafts,"['loyalty', 'up-sell', 'welcome', 'cashback', 'discount']"
+education and learning,"['cashback', 'early-access', 'gift', 'up-sell', 'loyalty']"
+office supplies,"['discount', 'early-access', 'cashback', 'welcome', 'up-sell', 'loyalty', 'gift']"
+health and wellness,['discount']
+beauty and personal care,"['early-access', 'up-sell', 'gift', 'welcome']"
+health and wellness,"['welcome', 'early-access', 'gift']"
+office supplies,[]
+industrial and scientific,"['discount', 'loyalty', 'early-access']"
+health and wellness,"['gift', 'early-access', 'discount', 'loyalty']"
+education and learning,"['early-access', 'gift']"
+industrial and scientific,"['welcome', 'discount', 'gift', 'up-sell']"
+music,"['early-access', 'up-sell', 'welcome', 'cashback', 'discount', 'gift']"
+music,"['loyalty', 'gift', 'early-access']"
+garden and outdoor,"['up-sell', 'early-access', 'gift']"
+art and crafts,"['discount', 'welcome', 'early-access', 'loyalty', 'cashback', 'up-sell', 'gift']"
+art and crafts,"['early-access', 'up-sell', 'welcome', 'discount', 'gift', 'cashback', 'loyalty']"
+electronics,"['early-access', 'gift', 'discount', 'up-sell', 'welcome', 'loyalty', 'cashback']"
+music,"['discount', 'up-sell', 'welcome', 'gift']"
+sports and fitness,"['discount', 'up-sell']"
+education and learning,"['cashback', 'loyalty', 'early-access', 'welcome', 'discount', 'gift']"
+books and media,"['welcome', 'discount', 'up-sell', 'cashback', 'gift', 'loyalty', 'early-access']"
+toys and games,['gift']
+industrial and scientific,"['welcome', 'gift']"
+education and learning,"['welcome', 'loyalty', 'gift', 'early-access', 'up-sell', 'discount', 'cashback']"
+food and beverages,"['gift', 'up-sell', 'welcome', 'cashback']"
+fashion,"['up-sell', 'welcome', 'loyalty', 'discount', 'early-access']"
+music,"['welcome', 'loyalty']"
+industrial and scientific,"['cashback', 'gift', 'welcome', 'early-access', 'up-sell', 'discount']"
+books and media,"['cashback', 'gift', 'early-access', 'loyalty']"
+education and learning,"['up-sell', 'loyalty', 'early-access', 'cashback']"
+health and wellness,"['welcome', 'loyalty', 'cashback']"
+beauty and personal care,"['up-sell', 'loyalty', 'early-access', 'discount', 'cashback', 'gift']"
+art and crafts,"['up-sell', 'welcome', 'gift', 'discount', 'cashback', 'loyalty', 'early-access']"
+automotive,"['up-sell', 'loyalty', 'cashback', 'gift', 'welcome', 'early-access']"
+art and crafts,"['gift', 'loyalty', 'up-sell', 'welcome', 'early-access', 'cashback']"
+food and beverages,"['discount', 'gift']"
+industrial and scientific,"['gift', 'welcome', 'loyalty', 'cashback']"
+travel and leisure,['discount']
+beauty and personal care,['up-sell']
+pet supplies,"['cashback', 'loyalty', 'discount', 'gift', 'up-sell', 'welcome']"
+art and crafts,[]
+beauty and personal care,"['cashback', 'discount', 'early-access', 'loyalty', 'up-sell', 'welcome', 'gift']"
+health and wellness,['gift']
+sports and fitness,"['gift', 'early-access', 'cashback', 'up-sell', 'loyalty']"
+beauty and personal care,['up-sell']
+food and beverages,"['loyalty', 'cashback', 'discount', 'early-access', 'welcome', 'up-sell', 'gift']"
+toys and games,"['welcome', 'up-sell', 'cashback', 'loyalty']"
+beauty and personal care,[]
+health and wellness,"['cashback', 'discount']"
+toys and games,"['gift', 'welcome', 'up-sell']"
+books and media,"['gift', 'welcome', 'up-sell', 'early-access', 'loyalty', 'discount', 'cashback']"
+fashion,[]
+fashion,"['early-access', 'loyalty', 'gift', 'discount', 'welcome', 'cashback']"
+beauty and personal care,[]
+travel and leisure,[]
+electronics,"['early-access', 'loyalty', 'welcome', 'gift', 'up-sell']"
+toys and games,"['welcome', 'cashback']"
+baby and kids,['early-access']
+pet supplies,"['up-sell', 'gift', 'loyalty', 'early-access', 'discount']"
+music,"['welcome', 'loyalty', 'gift', 'early-access', 'up-sell', 'discount']"
+toys and games,[]
+music,"['welcome', 'cashback', 'loyalty', 'gift', 'early-access']"
+beauty and personal care,"['gift', 'up-sell', 'discount', 'welcome']"
+beauty and personal care,"['cashback', 'discount', 'up-sell']"
+garden and outdoor,['gift']
+industrial and scientific,"['discount', 'welcome']"
+education and learning,"['gift', 'early-access', 'cashback', 'loyalty', 'up-sell']"
+toys and games,"['early-access', 'gift', 'cashback', 'welcome', 'loyalty']"
+electronics,"['cashback', 'up-sell', 'loyalty', 'welcome', 'early-access', 'discount', 'gift']"
+automotive,"['gift', 'cashback', 'loyalty']"
+education and learning,['welcome']
+sports and fitness,"['cashback', 'discount', 'loyalty', 'up-sell', 'early-access']"
+books and media,[]
+food and beverages,"['gift', 'discount', 'loyalty', 'early-access', 'up-sell', 'welcome', 'cashback']"
+automotive,[]
+food and beverages,"['discount', 'loyalty', 'gift', 'welcome', 'early-access']"
+food and beverages,"['up-sell', 'cashback', 'early-access']"
+pet supplies,"['cashback', 'gift']"
+electronics,['early-access']
+garden and outdoor,['loyalty']
+fashion,"['loyalty', 'early-access']"
+beauty and personal care,"['up-sell', 'early-access']"
+books and media,"['up-sell', 'welcome', 'cashback']"
+art and crafts,"['loyalty', 'gift', 'early-access', 'up-sell']"
+travel and leisure,"['up-sell', 'loyalty']"
+automotive,"['up-sell', 'cashback', 'loyalty', 'discount']"
+garden and outdoor,['discount']
+music,"['loyalty', 'cashback', 'gift', 'up-sell', 'discount', 'early-access']"
+sports and fitness,"['welcome', 'cashback', 'gift', 'early-access', 'loyalty', 'up-sell', 'discount']"
+health and wellness,"['cashback', 'discount', 'early-access', 'gift', 'loyalty', 'up-sell']"
+beauty and personal care,"['loyalty', 'gift', 'cashback', 'early-access', 'welcome']"
+books and media,[]
+electronics,"['cashback', 'early-access', 'gift', 'up-sell', 'discount']"
+office supplies,"['cashback', 'discount', 'up-sell', 'welcome', 'loyalty', 'early-access']"
+home and kitchen,"['up-sell', 'loyalty', 'gift', 'cashback', 'early-access', 'discount']"
+baby and kids,"['gift', 'early-access', 'discount', 'welcome', 'up-sell', 'loyalty', 'cashback']"
+food and beverages,"['cashback', 'welcome', 'discount']"
+electronics,"['discount', 'up-sell']"
+art and crafts,"['discount', 'loyalty']"
+education and learning,"['welcome', 'early-access']"
+beauty and personal care,"['cashback', 'gift', 'up-sell', 'welcome', 'discount', 'early-access']"
+travel and leisure,"['early-access', 'cashback']"
+health and wellness,"['up-sell', 'early-access', 'cashback', 'discount']"
+travel and leisure,['welcome']
+party supplies,"['early-access', 'loyalty', 'discount', 'gift', 'up-sell']"
+music,"['welcome', 'loyalty', 'cashback', 'early-access']"
+home and kitchen,['early-access']
+travel and leisure,"['gift', 'discount', 'cashback', 'loyalty', 'welcome', 'up-sell']"
+toys and games,"['loyalty', 'cashback']"
+toys and games,['cashback']
+party supplies,"['loyalty', 'early-access', 'welcome']"
+toys and games,"['discount', 'cashback', 'gift']"
+education and learning,['early-access']
+toys and games,['discount']
+beauty and personal care,"['welcome', 'discount', 'early-access', 'gift', 'up-sell', 'cashback']"
+garden and outdoor,"['gift', 'welcome', 'early-access', 'up-sell', 'loyalty', 'cashback', 'discount']"
+home and kitchen,"['up-sell', 'welcome', 'cashback']"
+education and learning,"['cashback', 'early-access', 'discount', 'gift']"
+pet supplies,"['gift', 'discount', 'early-access', 'loyalty', 'cashback']"
+music,"['up-sell', 'welcome', 'discount', 'early-access', 'gift', 'cashback']"
+art and crafts,"['gift', 'loyalty', 'welcome', 'up-sell', 'discount', 'early-access']"
+food and beverages,"['cashback', 'up-sell', 'early-access', 'gift', 'discount']"
+books and media,[]
+pet supplies,[]
+office supplies,[]
+pet supplies,"['loyalty', 'up-sell', 'cashback', 'gift', 'discount', 'welcome', 'early-access']"
+travel and leisure,"['gift', 'early-access', 'welcome', 'cashback', 'loyalty', 'up-sell', 'discount']"
+baby and kids,[]
+sports and fitness,"['early-access', 'welcome', 'discount', 'cashback', 'gift', 'loyalty', 'up-sell']"
+garden and outdoor,"['loyalty', 'early-access', 'gift']"
+beauty and personal care,['cashback']
+electronics,"['discount', 'cashback']"
+health and wellness,"['gift', 'discount', 'cashback']"
+home and kitchen,"['up-sell', 'gift']"
+garden and outdoor,['early-access']
+pet supplies,"['up-sell', 'early-access', 'welcome']"
+pet supplies,"['gift', 'early-access', 'cashback', 'up-sell', 'welcome', 'discount']"
+health and wellness,['discount']
+beauty and personal care,['welcome']
+pet supplies,"['gift', 'welcome', 'up-sell']"
+office supplies,"['early-access', 'discount']"
+music,[]
+automotive,[]
+party supplies,"['early-access', 'cashback', 'gift']"
+pet supplies,"['early-access', 'gift', 'loyalty', 'up-sell', 'welcome']"
+music,[]
+industrial and scientific,"['discount', 'loyalty', 'early-access', 'gift', 'cashback', 'up-sell', 'welcome']"
+education and learning,"['loyalty', 'gift', 'welcome', 'discount']"
+automotive,['discount']
+party supplies,"['gift', 'loyalty', 'cashback', 'discount', 'up-sell', 'early-access', 'welcome']"
+pet supplies,"['early-access', 'gift']"
+books and media,"['gift', 'early-access', 'welcome']"
+toys and games,"['gift', 'cashback', 'discount', 'loyalty', 'welcome', 'early-access', 'up-sell']"
+travel and leisure,"['discount', 'cashback', 'gift', 'welcome', 'early-access', 'loyalty', 'up-sell']"
+books and media,"['welcome', 'loyalty', 'discount', 'early-access', 'up-sell', 'gift']"
+art and crafts,"['up-sell', 'loyalty']"
+art and crafts,"['discount', 'loyalty', 'gift', 'up-sell', 'early-access', 'welcome', 'cashback']"
+office supplies,['gift']
+sports and fitness,"['cashback', 'gift', 'loyalty', 'welcome', 'early-access', 'up-sell']"
+garden and outdoor,"['welcome', 'early-access']"
+baby and kids,"['up-sell', 'cashback', 'loyalty', 'gift', 'welcome']"
+fashion,['loyalty']
+music,"['discount', 'gift', 'up-sell', 'loyalty', 'early-access', 'cashback', 'welcome']"
+art and crafts,"['discount', 'gift', 'cashback', 'early-access', 'welcome', 'up-sell']"
+home and kitchen,['welcome']
+garden and outdoor,"['welcome', 'up-sell', 'gift']"
+party supplies,"['discount', 'gift', 'welcome', 'loyalty', 'cashback', 'early-access', 'up-sell']"
+automotive,"['welcome', 'discount']"
+beauty and personal care,"['cashback', 'gift']"
+electronics,"['up-sell', 'early-access', 'gift', 'cashback', 'welcome', 'discount']"
+books and media,['loyalty']
+education and learning,"['welcome', 'up-sell']"
+art and crafts,"['welcome', 'early-access', 'loyalty', 'up-sell', 'discount']"
+toys and games,['up-sell']
+health and wellness,[]
+beauty and personal care,['up-sell']
+automotive,"['up-sell', 'loyalty', 'cashback', 'welcome', 'early-access']"
+automotive,[]
+baby and kids,"['gift', 'up-sell', 'cashback', 'loyalty']"
+party supplies,"['gift', 'discount', 'up-sell', 'early-access', 'cashback', 'welcome', 'loyalty']"
+fashion,"['welcome', 'loyalty', 'gift']"
+automotive,"['loyalty', 'up-sell', 'gift']"
+books and media,"['discount', 'loyalty', 'up-sell', 'cashback', 'welcome']"
+industrial and scientific,"['discount', 'cashback', 'loyalty', 'gift']"
+art and crafts,['discount']
+travel and leisure,"['up-sell', 'loyalty']"
+beauty and personal care,"['gift', 'early-access', 'loyalty', 'discount']"
+party supplies,"['cashback', 'loyalty']"
+pet supplies,"['cashback', 'welcome', 'up-sell', 'loyalty', 'gift', 'early-access']"
+home and kitchen,['gift']
+industrial and scientific,"['welcome', 'discount', 'early-access', 'gift', 'loyalty', 'cashback']"
+sports and fitness,"['discount', 'welcome', 'gift']"
+music,"['cashback', 'welcome', 'gift']"
+toys and games,"['up-sell', 'cashback', 'welcome', 'discount']"
+party supplies,"['up-sell', 'discount', 'early-access', 'welcome']"
+fashion,"['discount', 'cashback']"
+toys and games,"['early-access', 'gift', 'up-sell', 'cashback', 'loyalty']"
+party supplies,"['discount', 'welcome']"
+baby and kids,"['gift', 'loyalty']"
+sports and fitness,"['up-sell', 'gift', 'discount', 'welcome', 'early-access', 'loyalty']"
+food and beverages,"['gift', 'cashback', 'loyalty', 'early-access', 'up-sell', 'discount']"
+baby and kids,"['discount', 'cashback', 'up-sell', 'loyalty']"
+automotive,['discount']
+travel and leisure,"['early-access', 'welcome', 'gift', 'up-sell', 'discount']"
+food and beverages,['loyalty']
+party supplies,[]
+beauty and personal care,"['up-sell', 'cashback', 'welcome', 'gift']"
+baby and kids,"['cashback', 'early-access']"
+baby and kids,['cashback']
+electronics,"['early-access', 'gift', 'welcome']"
+travel and leisure,"['loyalty', 'gift', 'up-sell', 'welcome', 'discount']"
+art and crafts,"['gift', 'up-sell']"
+food and beverages,"['welcome', 'discount']"
+sports and fitness,"['welcome', 'cashback', 'gift', 'up-sell', 'early-access']"
+office supplies,['discount']
+food and beverages,['discount']
+automotive,"['discount', 'early-access', 'loyalty', 'welcome', 'gift', 'up-sell', 'cashback']"
+automotive,[]
+art and crafts,"['welcome', 'discount', 'early-access', 'cashback', 'loyalty', 'gift', 'up-sell']"
+home and kitchen,[]
+office supplies,"['cashback', 'discount']"
+electronics,['cashback']
+garden and outdoor,"['welcome', 'up-sell', 'gift']"
+sports and fitness,"['welcome', 'cashback', 'early-access', 'loyalty', 'discount', 'gift']"
+food and beverages,"['cashback', 'discount', 'gift', 'up-sell', 'loyalty', 'welcome', 'early-access']"
+home and kitchen,"['gift', 'cashback', 'loyalty', 'up-sell', 'early-access', 'discount', 'welcome']"
+office supplies,"['welcome', 'loyalty', 'discount']"
+fashion,"['cashback', 'early-access']"
+pet supplies,[]
+toys and games,"['cashback', 'gift', 'discount']"
+home and kitchen,"['cashback', 'up-sell', 'early-access', 'loyalty', 'gift', 'discount']"
+baby and kids,"['loyalty', 'welcome', 'gift', 'up-sell', 'cashback', 'discount']"
+office supplies,[]
+food and beverages,[]
+pet supplies,"['up-sell', 'gift', 'welcome', 'cashback', 'loyalty', 'discount']"
+automotive,"['welcome', 'cashback', 'loyalty', 'up-sell', 'discount', 'early-access', 'gift']"
+health and wellness,['early-access']
+health and wellness,"['gift', 'cashback', 'loyalty']"
+garden and outdoor,['gift']
+baby and kids,"['loyalty', 'up-sell']"
+sports and fitness,"['welcome', 'loyalty', 'cashback']"
+fashion,"['loyalty', 'early-access', 'cashback', 'welcome']"
+education and learning,"['welcome', 'early-access', 'cashback']"
+travel and leisure,"['gift', 'early-access', 'loyalty', 'up-sell']"
+pet supplies,"['cashback', 'welcome', 'up-sell', 'early-access', 'discount', 'gift']"
+automotive,['discount']
+office supplies,"['discount', 'gift', 'cashback', 'loyalty']"
+pet supplies,[]
+toys and games,[]
+electronics,[]
+pet supplies,"['discount', 'cashback', 'early-access']"
+education and learning,['cashback']
+toys and games,"['cashback', 'discount', 'gift', 'up-sell']"
+home and kitchen,['gift']
+electronics,"['discount', 'early-access']"
+office supplies,"['loyalty', 'gift', 'discount', 'early-access', 'up-sell']"
+music,['welcome']
+sports and fitness,['welcome']
+party supplies,"['loyalty', 'gift', 'cashback']"
+home and kitchen,['up-sell']
+education and learning,"['discount', 'gift', 'cashback', 'loyalty', 'early-access']"
+sports and fitness,[]
+sports and fitness,"['cashback', 'up-sell', 'discount']"
+industrial and scientific,"['discount', 'cashback', 'welcome', 'gift', 'up-sell']"
+garden and outdoor,"['up-sell', 'early-access', 'welcome', 'loyalty', 'discount', 'cashback']"
+sports and fitness,"['welcome', 'up-sell', 'early-access', 'loyalty']"
+music,"['gift', 'up-sell', 'early-access', 'welcome', 'cashback', 'loyalty', 'discount']"
+industrial and scientific,"['cashback', 'up-sell', 'discount', 'loyalty', 'welcome', 'gift']"
+toys and games,"['up-sell', 'gift', 'welcome']"
+baby and kids,"['up-sell', 'gift', 'early-access', 'discount', 'loyalty', 'welcome', 'cashback']"
+health and wellness,['loyalty']
+food and beverages,[]
+industrial and scientific,"['discount', 'welcome', 'loyalty']"
+health and wellness,"['discount', 'welcome']"
+food and beverages,"['up-sell', 'welcome', 'gift']"
+office supplies,"['discount', 'welcome', 'up-sell', 'early-access', 'cashback']"
+sports and fitness,"['up-sell', 'discount', 'gift', 'welcome', 'early-access', 'cashback']"
+office supplies,"['gift', 'discount', 'loyalty']"
+health and wellness,[]
+industrial and scientific,['gift']
+music,"['early-access', 'gift', 'up-sell', 'loyalty']"
+art and crafts,"['discount', 'early-access', 'loyalty']"
+party supplies,"['loyalty', 'cashback', 'early-access', 'gift', 'up-sell', 'welcome']"
+garden and outdoor,['cashback']
+toys and games,"['loyalty', 'early-access', 'gift', 'cashback', 'discount', 'welcome', 'up-sell']"
+electronics,"['loyalty', 'early-access', 'cashback', 'gift']"
+beauty and personal care,"['welcome', 'cashback']"
+food and beverages,"['gift', 'cashback', 'welcome', 'loyalty', 'discount', 'up-sell', 'early-access']"
+music,"['welcome', 'early-access', 'gift', 'up-sell', 'cashback', 'discount']"
+beauty and personal care,"['loyalty', 'gift', 'up-sell', 'welcome']"
+electronics,['up-sell']
+pet supplies,['loyalty']
+sports and fitness,"['early-access', 'up-sell', 'cashback', 'loyalty', 'gift', 'discount', 'welcome']"
+sports and fitness,"['welcome', 'up-sell', 'discount']"
+industrial and scientific,['welcome']
+fashion,['up-sell']
+automotive,['up-sell']
+travel and leisure,"['welcome', 'loyalty']"
+electronics,"['cashback', 'early-access', 'loyalty']"
+office supplies,"['loyalty', 'gift', 'cashback', 'welcome']"
+garden and outdoor,"['welcome', 'loyalty']"
+home and kitchen,"['discount', 'welcome', 'up-sell', 'early-access']"
+home and kitchen,"['welcome', 'early-access', 'up-sell', 'loyalty', 'gift']"
+travel and leisure,"['up-sell', 'loyalty', 'cashback', 'gift', 'discount']"
+automotive,"['discount', 'welcome', 'early-access', 'cashback']"
+office supplies,"['early-access', 'gift', 'welcome', 'up-sell']"
+sports and fitness,"['discount', 'loyalty']"
+music,"['gift', 'cashback', 'welcome', 'up-sell', 'discount', 'loyalty', 'early-access']"
+sports and fitness,['discount']
+sports and fitness,"['early-access', 'cashback']"
+office supplies,"['cashback', 'early-access', 'gift', 'up-sell', 'discount']"
+pet supplies,"['early-access', 'gift']"
+food and beverages,"['cashback', 'up-sell', 'early-access', 'gift', 'discount', 'welcome']"
+music,['up-sell']
+travel and leisure,"['gift', 'welcome', 'loyalty']"
+office supplies,[]
+books and media,[]
+office supplies,"['loyalty', 'welcome', 'gift', 'discount', 'early-access', 'up-sell', 'cashback']"
+art and crafts,"['early-access', 'up-sell']"
+travel and leisure,"['loyalty', 'early-access', 'welcome']"
+sports and fitness,['gift']
+sports and fitness,"['gift', 'welcome', 'cashback', 'discount', 'early-access', 'up-sell']"
+party supplies,['cashback']
+education and learning,"['welcome', 'loyalty']"
+office supplies,"['welcome', 'loyalty']"
+beauty and personal care,[]
+party supplies,"['loyalty', 'early-access', 'cashback', 'gift', 'discount', 'up-sell']"
+garden and outdoor,"['gift', 'discount', 'cashback', 'welcome', 'loyalty', 'up-sell']"
+sports and fitness,[]
+fashion,"['up-sell', 'loyalty']"
+electronics,"['early-access', 'cashback', 'gift', 'discount', 'up-sell', 'loyalty']"
+food and beverages,"['loyalty', 'discount', 'welcome', 'cashback', 'up-sell', 'gift']"
+music,[]
+food and beverages,"['loyalty', 'gift', 'up-sell', 'welcome', 'discount', 'early-access']"
+garden and outdoor,"['gift', 'early-access', 'cashback', 'up-sell', 'welcome']"
+fashion,"['gift', 'cashback', 'loyalty', 'discount', 'welcome']"
+home and kitchen,['discount']
+education and learning,"['welcome', 'loyalty', 'discount', 'gift', 'up-sell']"
+home and kitchen,['loyalty']
+education and learning,[]
+automotive,"['up-sell', 'loyalty', 'welcome']"
+food and beverages,"['welcome', 'up-sell', 'gift', 'early-access']"
+party supplies,"['welcome', 'early-access', 'discount', 'gift', 'loyalty', 'cashback', 'up-sell']"
+automotive,"['up-sell', 'loyalty', 'discount', 'cashback', 'early-access', 'gift']"
+sports and fitness,['discount']
+travel and leisure,['up-sell']
+sports and fitness,[]
+party supplies,"['cashback', 'up-sell', 'welcome', 'discount', 'gift', 'early-access']"
+art and crafts,['gift']
+beauty and personal care,"['loyalty', 'gift', 'early-access']"
+toys and games,"['cashback', 'loyalty', 'discount', 'up-sell', 'gift']"
+education and learning,"['welcome', 'gift', 'cashback', 'loyalty', 'early-access', 'discount']"
+sports and fitness,"['welcome', 'early-access', 'loyalty', 'discount', 'cashback', 'gift', 'up-sell']"
+home and kitchen,"['discount', 'loyalty', 'early-access', 'gift', 'welcome', 'cashback', 'up-sell']"
+office supplies,['welcome']
+toys and games,"['discount', 'cashback', 'early-access', 'gift', 'up-sell', 'welcome', 'loyalty']"
+party supplies,"['welcome', 'discount', 'gift', 'cashback', 'loyalty', 'early-access', 'up-sell']"
+office supplies,"['discount', 'welcome', 'cashback', 'up-sell', 'loyalty']"
+fashion,[]
+food and beverages,[]
+sports and fitness,['discount']
+music,"['up-sell', 'cashback']"
+beauty and personal care,"['cashback', 'early-access', 'welcome']"
+office supplies,"['cashback', 'gift', 'up-sell', 'early-access', 'welcome', 'discount', 'loyalty']"
+home and kitchen,"['early-access', 'cashback', 'loyalty', 'gift', 'up-sell', 'welcome']"
+pet supplies,"['up-sell', 'cashback', 'loyalty', 'gift', 'welcome']"
+health and wellness,"['welcome', 'up-sell', 'loyalty', 'cashback', 'early-access', 'discount', 'gift']"
+party supplies,[]
+education and learning,"['welcome', 'discount', 'cashback', 'up-sell', 'early-access', 'gift']"
+books and media,[]
+travel and leisure,"['discount', 'gift', 'loyalty', 'welcome']"
+sports and fitness,['discount']
+music,['discount']
+art and crafts,"['up-sell', 'loyalty', 'discount', 'gift', 'welcome', 'early-access']"
+travel and leisure,"['early-access', 'discount', 'loyalty', 'up-sell', 'cashback']"
+travel and leisure,"['cashback', 'up-sell', 'loyalty', 'early-access', 'gift', 'discount', 'welcome']"
+industrial and scientific,"['welcome', 'gift', 'up-sell']"
+education and learning,"['discount', 'gift']"
+pet supplies,[]
+sports and fitness,"['loyalty', 'cashback', 'discount', 'welcome', 'up-sell', 'early-access', 'gift']"
+baby and kids,[]
+art and crafts,"['gift', 'cashback']"
+party supplies,['welcome']
+books and media,"['cashback', 'gift', 'up-sell']"
+toys and games,"['loyalty', 'discount', 'early-access', 'up-sell', 'gift', 'welcome']"
+office supplies,"['welcome', 'discount', 'gift', 'early-access', 'up-sell']"
+garden and outdoor,"['cashback', 'early-access', 'discount', 'up-sell', 'gift', 'loyalty', 'welcome']"
+home and kitchen,"['cashback', 'early-access']"
+office supplies,"['up-sell', 'early-access']"
+toys and games,"['cashback', 'discount', 'early-access', 'gift', 'up-sell', 'welcome']"
+beauty and personal care,['welcome']
+electronics,"['welcome', 'cashback', 'up-sell', 'early-access', 'discount', 'loyalty']"
+baby and kids,[]
+automotive,"['loyalty', 'early-access', 'cashback', 'up-sell', 'welcome', 'discount']"
+garden and outdoor,['discount']
+art and crafts,"['early-access', 'gift', 'cashback', 'welcome', 'loyalty', 'up-sell']"
+baby and kids,"['discount', 'gift', 'early-access', 'up-sell']"
+travel and leisure,"['welcome', 'cashback', 'early-access']"
+electronics,[]
+sports and fitness,"['early-access', 'up-sell', 'gift', 'discount', 'loyalty']"
+toys and games,"['loyalty', 'up-sell', 'cashback', 'early-access', 'discount', 'gift']"
+fashion,"['loyalty', 'gift', 'cashback', 'early-access', 'up-sell', 'discount']"
+baby and kids,"['cashback', 'loyalty']"
+home and kitchen,"['up-sell', 'welcome']"
+party supplies,"['early-access', 'gift', 'discount', 'loyalty', 'cashback', 'welcome']"
+beauty and personal care,['welcome']
+travel and leisure,[]
+party supplies,"['welcome', 'up-sell']"
+industrial and scientific,['up-sell']
+music,[]
+sports and fitness,"['gift', 'early-access', 'discount', 'loyalty', 'welcome', 'up-sell', 'cashback']"
+books and media,"['gift', 'cashback', 'discount']"
+fashion,"['welcome', 'loyalty', 'early-access', 'up-sell']"
+home and kitchen,"['up-sell', 'welcome', 'gift', 'loyalty', 'cashback', 'discount', 'early-access']"
+beauty and personal care,['cashback']
+office supplies,"['cashback', 'welcome', 'early-access']"
+electronics,"['welcome', 'cashback', 'early-access', 'loyalty', 'discount', 'gift']"
+music,"['gift', 'cashback', 'loyalty', 'up-sell', 'early-access']"
+electronics,"['gift', 'up-sell']"
+education and learning,[]
+home and kitchen,"['discount', 'cashback', 'up-sell', 'welcome', 'gift']"
+baby and kids,"['welcome', 'loyalty', 'up-sell', 'early-access']"
+industrial and scientific,[]
+baby and kids,"['loyalty', 'discount']"
+home and kitchen,"['welcome', 'discount', 'loyalty']"
+food and beverages,['gift']
+sports and fitness,"['discount', 'cashback', 'loyalty', 'welcome']"
+office supplies,"['cashback', 'gift', 'early-access', 'up-sell']"
+baby and kids,"['loyalty', 'discount', 'early-access', 'up-sell', 'gift', 'cashback']"
+music,['up-sell']
+party supplies,"['loyalty', 'early-access', 'cashback', 'up-sell']"
+art and crafts,"['up-sell', 'gift', 'discount', 'early-access', 'cashback', 'welcome']"
+education and learning,"['cashback', 'loyalty', 'up-sell', 'discount', 'gift', 'welcome']"
+art and crafts,"['welcome', 'up-sell']"
+health and wellness,"['discount', 'up-sell', 'gift', 'early-access', 'loyalty', 'welcome']"
+home and kitchen,"['early-access', 'discount']"
+travel and leisure,"['discount', 'loyalty']"
+beauty and personal care,"['gift', 'discount', 'early-access']"
+sports and fitness,"['welcome', 'early-access', 'discount', 'gift', 'up-sell']"
+pet supplies,"['cashback', 'up-sell', 'discount']"
+food and beverages,['cashback']
+automotive,"['up-sell', 'loyalty', 'welcome']"
+industrial and scientific,"['gift', 'up-sell', 'welcome', 'cashback']"
+travel and leisure,"['early-access', 'discount', 'loyalty', 'up-sell', 'welcome']"
+garden and outdoor,"['welcome', 'discount', 'cashback', 'early-access', 'up-sell', 'loyalty', 'gift']"
+education and learning,"['up-sell', 'cashback', 'loyalty', 'welcome', 'early-access']"
+electronics,[]
+art and crafts,"['loyalty', 'cashback', 'welcome', 'up-sell']"
+pet supplies,[]
+beauty and personal care,"['welcome', 'cashback', 'discount', 'up-sell', 'loyalty', 'gift', 'early-access']"
+beauty and personal care,"['cashback', 'up-sell', 'welcome', 'early-access', 'loyalty']"
+art and crafts,"['early-access', 'gift', 'welcome', 'discount', 'cashback', 'up-sell', 'loyalty']"
+food and beverages,[]
+electronics,"['welcome', 'discount']"
+travel and leisure,"['loyalty', 'welcome', 'early-access']"
+office supplies,[]
+fashion,"['early-access', 'welcome', 'gift', 'up-sell']"
+automotive,['discount']
+pet supplies,"['discount', 'gift', 'loyalty', 'up-sell', 'early-access', 'cashback']"
+home and kitchen,"['discount', 'loyalty']"
+party supplies,"['gift', 'cashback', 'welcome', 'loyalty', 'discount', 'early-access']"
+garden and outdoor,"['discount', 'gift', 'cashback', 'loyalty']"
+beauty and personal care,"['early-access', 'discount', 'welcome', 'gift']"
+industrial and scientific,"['gift', 'early-access', 'loyalty']"
+beauty and personal care,['cashback']
+fashion,"['welcome', 'gift', 'loyalty']"
+art and crafts,"['loyalty', 'cashback', 'welcome', 'discount', 'up-sell', 'early-access']"
+automotive,"['gift', 'loyalty', 'up-sell', 'welcome', 'cashback', 'discount', 'early-access']"
+music,"['early-access', 'up-sell', 'gift', 'loyalty', 'cashback', 'welcome', 'discount']"
+health and wellness,"['loyalty', 'gift', 'discount', 'welcome', 'cashback', 'early-access']"
+home and kitchen,['loyalty']
+electronics,"['loyalty', 'discount', 'welcome', 'cashback', 'gift', 'early-access', 'up-sell']"
+health and wellness,['up-sell']
+beauty and personal care,"['cashback', 'loyalty', 'gift', 'early-access', 'discount']"
+travel and leisure,"['welcome', 'cashback', 'discount', 'up-sell', 'early-access']"
+fashion,"['gift', 'cashback', 'loyalty', 'discount', 'welcome', 'up-sell']"
+toys and games,"['up-sell', 'early-access', 'cashback', 'gift']"
+home and kitchen,[]
+food and beverages,['loyalty']
+home and kitchen,[]
+fashion,"['loyalty', 'welcome', 'up-sell', 'gift']"
+health and wellness,"['up-sell', 'gift', 'cashback']"
+music,"['welcome', 'loyalty', 'discount', 'cashback', 'early-access', 'up-sell']"
+books and media,"['gift', 'discount', 'up-sell', 'early-access', 'cashback']"
+electronics,['loyalty']
+baby and kids,"['gift', 'discount', 'loyalty', 'up-sell', 'cashback', 'welcome', 'early-access']"
+toys and games,"['cashback', 'loyalty', 'welcome', 'early-access', 'gift']"
+pet supplies,[]
+toys and games,"['welcome', 'loyalty', 'early-access', 'discount']"
+garden and outdoor,[]
+garden and outdoor,"['cashback', 'welcome', 'gift']"
+electronics,"['early-access', 'loyalty', 'up-sell', 'gift']"
+sports and fitness,['welcome']
+automotive,"['cashback', 'early-access', 'discount', 'up-sell', 'gift']"
+garden and outdoor,"['discount', 'cashback', 'welcome', 'early-access']"
+automotive,"['up-sell', 'gift', 'early-access', 'cashback', 'welcome']"
+health and wellness,[]
+sports and fitness,"['early-access', 'loyalty', 'gift', 'discount', 'up-sell', 'welcome']"
+food and beverages,"['discount', 'loyalty', 'welcome', 'gift', 'cashback', 'up-sell']"
+health and wellness,"['up-sell', 'loyalty', 'discount', 'early-access', 'gift', 'cashback', 'welcome']"
+health and wellness,"['loyalty', 'welcome', 'up-sell', 'discount']"
+education and learning,['cashback']
+art and crafts,"['discount', 'welcome', 'gift', 'cashback', 'early-access']"
+sports and fitness,"['gift', 'loyalty', 'up-sell', 'discount', 'cashback', 'welcome', 'early-access']"
+garden and outdoor,"['welcome', 'discount', 'early-access', 'cashback']"
+fashion,"['discount', 'up-sell', 'welcome']"
+fashion,"['discount', 'welcome', 'cashback', 'early-access', 'up-sell', 'gift', 'loyalty']"
+health and wellness,"['discount', 'early-access']"
+baby and kids,"['welcome', 'gift']"
+health and wellness,"['gift', 'loyalty']"
+travel and leisure,['discount']
+food and beverages,[]
+garden and outdoor,"['loyalty', 'gift', 'cashback', 'up-sell', 'early-access']"
+home and kitchen,"['discount', 'up-sell', 'early-access', 'loyalty']"
+party supplies,"['gift', 'discount', 'up-sell', 'loyalty', 'early-access', 'welcome']"
+health and wellness,"['cashback', 'up-sell']"
+books and media,"['discount', 'welcome', 'early-access', 'cashback']"
+industrial and scientific,"['cashback', 'early-access']"
+home and kitchen,"['up-sell', 'cashback']"
+pet supplies,"['cashback', 'discount', 'early-access', 'up-sell', 'loyalty']"
+travel and leisure,"['welcome', 'up-sell', 'early-access', 'cashback', 'gift', 'discount', 'loyalty']"
+food and beverages,"['loyalty', 'up-sell', 'gift', 'discount', 'welcome']"
+music,"['cashback', 'gift']"
+electronics,"['early-access', 'up-sell', 'cashback', 'welcome', 'gift', 'discount', 'loyalty']"
+home and kitchen,"['up-sell', 'welcome', 'discount', 'cashback', 'early-access']"
+pet supplies,[]
+home and kitchen,[]
+books and media,"['up-sell', 'gift']"
+garden and outdoor,"['loyalty', 'gift']"
+sports and fitness,"['gift', 'discount', 'welcome', 'cashback']"
+education and learning,"['welcome', 'early-access', 'gift']"
+sports and fitness,['up-sell']
+home and kitchen,"['loyalty', 'welcome', 'cashback']"
+electronics,"['cashback', 'welcome', 'gift', 'discount', 'loyalty', 'early-access', 'up-sell']"
+food and beverages,"['early-access', 'up-sell', 'cashback', 'welcome']"
+travel and leisure,"['gift', 'welcome']"
+toys and games,"['early-access', 'gift']"
+food and beverages,"['up-sell', 'gift']"
+industrial and scientific,"['cashback', 'early-access', 'discount']"
+automotive,['up-sell']
+garden and outdoor,"['gift', 'discount', 'cashback', 'up-sell', 'early-access']"
+home and kitchen,"['cashback', 'early-access', 'loyalty', 'welcome', 'up-sell', 'discount', 'gift']"
+party supplies,"['welcome', 'up-sell', 'discount', 'early-access', 'gift', 'loyalty']"
+fashion,"['loyalty', 'cashback', 'gift', 'discount', 'welcome']"
+toys and games,"['up-sell', 'early-access', 'loyalty', 'discount', 'cashback']"
+baby and kids,"['up-sell', 'welcome', 'loyalty', 'early-access', 'cashback', 'discount']"
+art and crafts,"['discount', 'gift']"
+automotive,"['welcome', 'gift', 'cashback', 'up-sell', 'loyalty', 'early-access']"
+party supplies,"['loyalty', 'gift', 'discount', 'up-sell']"
+party supplies,"['welcome', 'early-access', 'gift', 'loyalty', 'up-sell', 'discount']"
+home and kitchen,"['gift', 'cashback', 'discount', 'loyalty', 'up-sell', 'welcome', 'early-access']"
+toys and games,"['early-access', 'cashback', 'welcome', 'up-sell', 'discount', 'loyalty']"
+home and kitchen,[]
+beauty and personal care,"['early-access', 'discount', 'up-sell', 'welcome', 'cashback', 'loyalty', 'gift']"
+art and crafts,"['loyalty', 'gift', 'up-sell', 'early-access', 'welcome', 'cashback']"
+garden and outdoor,"['gift', 'discount', 'loyalty', 'up-sell', 'early-access', 'welcome', 'cashback']"
+baby and kids,"['welcome', 'up-sell', 'early-access']"
+home and kitchen,"['welcome', 'loyalty', 'early-access']"
+office supplies,"['up-sell', 'early-access', 'welcome', 'discount', 'gift', 'loyalty']"
+books and media,"['up-sell', 'cashback', 'early-access']"
+office supplies,"['up-sell', 'early-access', 'loyalty', 'welcome', 'gift']"
+travel and leisure,"['early-access', 'welcome', 'up-sell', 'gift', 'cashback', 'loyalty']"
+home and kitchen,['cashback']
+food and beverages,[]
+education and learning,"['welcome', 'loyalty', 'discount', 'up-sell', 'gift']"
+office supplies,['early-access']
+toys and games,"['welcome', 'up-sell', 'gift', 'loyalty']"
+baby and kids,"['cashback', 'up-sell', 'welcome', 'gift']"
+party supplies,"['discount', 'gift', 'welcome', 'up-sell', 'loyalty', 'early-access', 'cashback']"
+books and media,"['early-access', 'welcome', 'loyalty', 'up-sell', 'discount']"
+pet supplies,[]
+food and beverages,"['welcome', 'up-sell', 'gift', 'early-access', 'loyalty', 'cashback', 'discount']"
+education and learning,['up-sell']
+garden and outdoor,"['discount', 'gift']"
+fashion,['welcome']
+garden and outdoor,"['gift', 'discount', 'cashback']"
+garden and outdoor,"['early-access', 'loyalty', 'welcome', 'up-sell']"
+electronics,"['up-sell', 'early-access', 'cashback']"
+electronics,"['welcome', 'cashback', 'gift', 'loyalty', 'up-sell', 'discount', 'early-access']"
+home and kitchen,"['welcome', 'up-sell', 'discount', 'gift', 'early-access', 'loyalty', 'cashback']"
+fashion,"['loyalty', 'welcome', 'up-sell']"
+electronics,"['cashback', 'gift', 'up-sell']"
+party supplies,[]
+electronics,"['early-access', 'welcome', 'gift']"
+fashion,"['cashback', 'loyalty']"
+automotive,[]
+pet supplies,"['up-sell', 'gift', 'loyalty', 'discount', 'welcome']"
+education and learning,"['cashback', 'gift', 'welcome', 'up-sell', 'early-access', 'loyalty']"
+industrial and scientific,"['cashback', 'gift', 'discount']"
+food and beverages,"['gift', 'discount', 'early-access', 'up-sell', 'cashback', 'welcome', 'loyalty']"
+pet supplies,['welcome']
+office supplies,"['gift', 'up-sell', 'cashback', 'discount', 'welcome', 'early-access']"
+sports and fitness,"['discount', 'gift', 'up-sell']"
+books and media,['discount']
+sports and fitness,[]
+food and beverages,"['gift', 'cashback', 'welcome', 'up-sell', 'loyalty', 'early-access', 'discount']"
+health and wellness,"['discount', 'welcome', 'gift', 'early-access', 'cashback', 'loyalty']"
+garden and outdoor,[]
+music,"['cashback', 'welcome', 'loyalty', 'up-sell', 'early-access', 'gift']"
+travel and leisure,[]
+automotive,[]
+industrial and scientific,"['welcome', 'up-sell', 'discount', 'gift', 'cashback']"
+books and media,[]
+pet supplies,"['early-access', 'cashback', 'welcome', 'up-sell', 'discount', 'loyalty']"
+automotive,"['cashback', 'up-sell', 'gift', 'discount', 'welcome', 'loyalty', 'early-access']"
+food and beverages,"['welcome', 'discount']"
+health and wellness,['loyalty']
+industrial and scientific,"['discount', 'up-sell', 'cashback', 'welcome']"
+education and learning,"['discount', 'early-access', 'gift', 'welcome']"
+home and kitchen,"['up-sell', 'gift', 'discount', 'early-access']"
+toys and games,"['cashback', 'welcome', 'early-access', 'gift', 'loyalty', 'up-sell', 'discount']"
+garden and outdoor,"['cashback', 'welcome', 'up-sell']"
+beauty and personal care,"['up-sell', 'early-access', 'discount', 'welcome']"
+art and crafts,"['discount', 'early-access']"
+health and wellness,"['loyalty', 'early-access', 'gift', 'up-sell', 'discount', 'welcome', 'cashback']"
+home and kitchen,[]
+toys and games,"['up-sell', 'discount', 'welcome', 'loyalty', 'early-access', 'cashback', 'gift']"
+electronics,"['up-sell', 'gift', 'welcome', 'loyalty', 'cashback']"
+home and kitchen,['up-sell']
+art and crafts,['up-sell']
+beauty and personal care,"['loyalty', 'discount', 'up-sell']"
+office supplies,"['welcome', 'gift', 'cashback', 'discount', 'early-access', 'up-sell']"
+pet supplies,"['discount', 'cashback', 'early-access', 'gift', 'loyalty']"
+education and learning,[]
+toys and games,"['welcome', 'discount', 'loyalty', 'early-access', 'cashback']"
+education and learning,"['early-access', 'discount', 'up-sell']"
+baby and kids,"['loyalty', 'cashback', 'up-sell', 'welcome', 'discount']"
+sports and fitness,"['early-access', 'gift', 'welcome', 'up-sell', 'cashback', 'loyalty']"
+industrial and scientific,['early-access']
+baby and kids,[]
+education and learning,"['gift', 'up-sell', 'early-access', 'cashback', 'loyalty', 'discount', 'welcome']"
+party supplies,"['loyalty', 'discount', 'early-access', 'gift']"
+food and beverages,"['discount', 'gift', 'welcome', 'loyalty', 'cashback', 'early-access', 'up-sell']"
+beauty and personal care,"['up-sell', 'early-access', 'welcome', 'discount', 'cashback']"
+garden and outdoor,"['cashback', 'early-access', 'loyalty']"
+party supplies,"['up-sell', 'loyalty']"
+travel and leisure,"['up-sell', 'discount']"
+automotive,"['discount', 'welcome', 'gift', 'cashback', 'loyalty']"
+baby and kids,"['up-sell', 'cashback']"
+books and media,"['cashback', 'welcome']"
+toys and games,['cashback']
+health and wellness,"['gift', 'welcome', 'loyalty', 'early-access', 'up-sell', 'cashback', 'discount']"
+beauty and personal care,"['up-sell', 'early-access']"
+music,"['discount', 'loyalty', 'cashback', 'gift', 'early-access', 'up-sell']"
+home and kitchen,"['early-access', 'discount', 'up-sell', 'welcome', 'gift']"
+fashion,['gift']
+office supplies,"['cashback', 'gift', 'early-access', 'up-sell', 'loyalty', 'discount', 'welcome']"
+toys and games,['loyalty']
+electronics,"['gift', 'early-access', 'cashback', 'up-sell', 'loyalty']"
+art and crafts,"['up-sell', 'gift']"
+party supplies,"['early-access', 'welcome', 'loyalty', 'discount']"
+garden and outdoor,"['welcome', 'up-sell', 'gift', 'cashback', 'loyalty']"
+pet supplies,"['discount', 'loyalty', 'gift', 'welcome', 'early-access', 'cashback']"
+travel and leisure,"['up-sell', 'early-access', 'discount', 'welcome']"
+office supplies,"['loyalty', 'welcome', 'discount', 'up-sell']"
+garden and outdoor,"['loyalty', 'early-access', 'discount', 'up-sell', 'cashback', 'welcome', 'gift']"
+health and wellness,"['welcome', 'loyalty']"
+industrial and scientific,"['welcome', 'up-sell']"
+fashion,"['welcome', 'cashback', 'early-access']"
+office supplies,"['discount', 'up-sell', 'cashback']"
+art and crafts,"['early-access', 'cashback']"
+automotive,['gift']
+home and kitchen,"['cashback', 'early-access', 'discount', 'welcome', 'gift', 'loyalty', 'up-sell']"
+office supplies,['gift']
+food and beverages,['discount']
+toys and games,"['discount', 'cashback', 'up-sell', 'welcome', 'early-access']"
+pet supplies,[]
+travel and leisure,['gift']
+baby and kids,"['loyalty', 'up-sell', 'welcome', 'gift', 'cashback']"
+sports and fitness,"['early-access', 'loyalty', 'gift', 'discount', 'up-sell', 'welcome']"
+garden and outdoor,"['gift', 'cashback']"
+automotive,"['loyalty', 'gift']"
+beauty and personal care,"['welcome', 'cashback', 'early-access']"
+garden and outdoor,"['gift', 'loyalty', 'welcome']"
+travel and leisure,"['up-sell', 'cashback', 'early-access', 'loyalty']"
+office supplies,"['up-sell', 'gift', 'loyalty', 'discount', 'welcome', 'early-access', 'cashback']"
+garden and outdoor,"['up-sell', 'discount', 'early-access', 'cashback', 'loyalty', 'welcome']"
+food and beverages,['early-access']
+automotive,"['cashback', 'discount', 'loyalty', 'early-access', 'welcome', 'gift']"
+art and crafts,"['gift', 'welcome', 'discount', 'cashback', 'up-sell']"
+sports and fitness,"['early-access', 'cashback', 'up-sell', 'gift', 'discount', 'welcome', 'loyalty']"
+automotive,"['up-sell', 'loyalty', 'cashback', 'welcome']"
+industrial and scientific,"['discount', 'gift', 'early-access', 'cashback', 'loyalty']"
+art and crafts,"['cashback', 'discount', 'welcome', 'gift', 'loyalty', 'up-sell']"
+pet supplies,[]
+automotive,"['cashback', 'loyalty', 'up-sell', 'gift', 'discount', 'welcome', 'early-access']"
+education and learning,"['loyalty', 'up-sell', 'gift', 'welcome', 'discount']"
+electronics,"['welcome', 'gift', 'discount', 'up-sell', 'cashback', 'early-access']"
+fashion,"['discount', 'up-sell', 'loyalty']"
+toys and games,"['early-access', 'gift', 'loyalty', 'discount', 'welcome', 'up-sell']"
+pet supplies,"['loyalty', 'up-sell', 'early-access', 'welcome', 'cashback', 'discount']"
+baby and kids,['up-sell']
+music,"['welcome', 'loyalty', 'discount', 'up-sell', 'early-access', 'cashback', 'gift']"
+fashion,"['gift', 'welcome', 'cashback', 'up-sell']"
+sports and fitness,"['early-access', 'welcome', 'gift', 'up-sell']"
+baby and kids,"['welcome', 'early-access', 'up-sell', 'loyalty', 'gift', 'cashback']"
+books and media,"['early-access', 'discount', 'cashback', 'welcome']"
+automotive,"['cashback', 'loyalty', 'welcome', 'discount']"
+party supplies,"['cashback', 'discount', 'early-access', 'welcome', 'up-sell', 'loyalty', 'gift']"
+garden and outdoor,"['gift', 'up-sell', 'early-access', 'loyalty']"
+music,[]
+garden and outdoor,"['discount', 'up-sell', 'welcome', 'cashback', 'gift', 'early-access']"
+music,"['cashback', 'discount', 'early-access']"
+party supplies,['gift']
+automotive,"['loyalty', 'gift', 'welcome', 'up-sell', 'discount']"
+toys and games,"['early-access', 'cashback', 'up-sell']"
+food and beverages,['loyalty']
+music,"['up-sell', 'gift', 'early-access', 'loyalty', 'welcome', 'cashback', 'discount']"
+travel and leisure,"['gift', 'discount', 'loyalty', 'welcome']"
+pet supplies,"['early-access', 'welcome', 'discount', 'loyalty', 'up-sell', 'cashback']"
+industrial and scientific,"['discount', 'gift', 'loyalty', 'early-access', 'up-sell', 'cashback', 'welcome']"
+home and kitchen,"['gift', 'welcome', 'cashback', 'loyalty', 'early-access', 'discount']"
+baby and kids,['loyalty']
+books and media,"['early-access', 'welcome', 'gift', 'cashback', 'loyalty', 'up-sell', 'discount']"
+sports and fitness,"['cashback', 'welcome', 'discount', 'gift', 'loyalty', 'up-sell']"
+health and wellness,"['up-sell', 'discount', 'early-access', 'loyalty', 'welcome']"
+automotive,"['early-access', 'up-sell', 'discount']"
+baby and kids,"['cashback', 'early-access', 'loyalty', 'discount']"
+sports and fitness,"['up-sell', 'gift']"
+garden and outdoor,[]
+pet supplies,"['loyalty', 'early-access', 'cashback', 'welcome', 'up-sell', 'gift']"
+books and media,"['gift', 'welcome', 'up-sell']"
+art and crafts,"['welcome', 'early-access', 'up-sell', 'cashback', 'discount']"
+toys and games,['discount']
+industrial and scientific,"['discount', 'gift', 'welcome']"
+books and media,"['discount', 'cashback', 'up-sell', 'early-access']"
+office supplies,"['discount', 'up-sell', 'gift', 'loyalty', 'welcome', 'early-access']"
+home and kitchen,"['discount', 'loyalty', 'early-access']"
+party supplies,['loyalty']
+baby and kids,"['discount', 'up-sell', 'gift', 'early-access', 'cashback', 'loyalty']"
+books and media,"['welcome', 'loyalty']"
+books and media,['early-access']
+education and learning,"['loyalty', 'early-access']"
+garden and outdoor,[]
+pet supplies,['welcome']
+sports and fitness,"['cashback', 'gift', 'early-access', 'discount', 'loyalty', 'welcome', 'up-sell']"
+industrial and scientific,"['cashback', 'early-access', 'gift', 'discount', 'loyalty', 'up-sell']"
+baby and kids,['up-sell']
+books and media,"['gift', 'discount']"
+sports and fitness,"['up-sell', 'cashback', 'gift', 'discount', 'early-access', 'welcome']"
+industrial and scientific,"['gift', 'discount', 'loyalty', 'welcome', 'up-sell', 'early-access']"
+office supplies,"['loyalty', 'up-sell', 'gift', 'early-access', 'cashback', 'discount']"
+toys and games,[]
+books and media,"['discount', 'up-sell', 'loyalty', 'welcome', 'early-access', 'gift', 'cashback']"
+home and kitchen,"['discount', 'up-sell', 'welcome', 'early-access', 'gift']"
+health and wellness,"['cashback', 'welcome', 'discount', 'up-sell', 'early-access', 'gift', 'loyalty']"
+garden and outdoor,"['cashback', 'loyalty', 'early-access', 'welcome', 'up-sell', 'gift', 'discount']"
+education and learning,"['gift', 'early-access']"
+toys and games,"['welcome', 'cashback']"
+home and kitchen,[]
+art and crafts,[]
+pet supplies,['early-access']
+industrial and scientific,"['early-access', 'loyalty', 'up-sell', 'welcome']"
+pet supplies,"['gift', 'loyalty', 'up-sell', 'discount', 'cashback']"
+electronics,"['cashback', 'gift', 'welcome', 'up-sell', 'early-access', 'discount']"
+health and wellness,['loyalty']
+art and crafts,[]
+health and wellness,"['gift', 'up-sell', 'cashback']"
+toys and games,[]
+automotive,"['up-sell', 'discount', 'welcome', 'gift']"
+art and crafts,['up-sell']
+art and crafts,['welcome']
+beauty and personal care,"['gift', 'welcome']"
+toys and games,"['up-sell', 'gift', 'welcome', 'loyalty', 'early-access']"
+books and media,"['cashback', 'welcome', 'loyalty', 'discount', 'early-access']"
+books and media,"['discount', 'welcome']"
+music,"['loyalty', 'discount', 'early-access', 'gift']"
+travel and leisure,"['early-access', 'loyalty', 'discount']"
+books and media,"['discount', 'early-access']"
+art and crafts,"['welcome', 'cashback', 'discount', 'up-sell']"
+office supplies,"['early-access', 'gift', 'loyalty', 'welcome', 'discount', 'up-sell', 'cashback']"
+industrial and scientific,"['gift', 'cashback', 'discount']"
+automotive,"['discount', 'gift', 'up-sell']"
+industrial and scientific,"['welcome', 'up-sell', 'loyalty', 'discount']"
+books and media,"['discount', 'welcome', 'gift', 'loyalty', 'cashback', 'up-sell', 'early-access']"
+party supplies,"['discount', 'up-sell', 'cashback', 'welcome', 'loyalty']"
+home and kitchen,"['early-access', 'welcome', 'loyalty', 'cashback', 'up-sell']"
+pet supplies,"['gift', 'welcome', 'loyalty', 'discount', 'up-sell']"
+toys and games,"['up-sell', 'loyalty', 'welcome', 'cashback', 'discount', 'gift', 'early-access']"
+music,"['early-access', 'loyalty', 'discount', 'up-sell', 'cashback', 'gift', 'welcome']"
+music,"['welcome', 'loyalty', 'up-sell', 'early-access']"
+travel and leisure,"['early-access', 'discount', 'up-sell', 'cashback', 'gift', 'welcome']"
+toys and games,"['discount', 'up-sell']"
+baby and kids,"['up-sell', 'loyalty', 'gift']"
+pet supplies,[]
+beauty and personal care,"['early-access', 'loyalty', 'discount', 'cashback']"
+music,"['cashback', 'welcome']"
+sports and fitness,"['loyalty', 'discount', 'gift']"
+beauty and personal care,"['loyalty', 'early-access']"
+travel and leisure,['gift']
+food and beverages,"['gift', 'up-sell']"
+office supplies,[]
+garden and outdoor,"['discount', 'welcome']"
+garden and outdoor,"['gift', 'loyalty', 'cashback', 'up-sell', 'early-access', 'welcome']"
+home and kitchen,"['loyalty', 'discount', 'early-access', 'cashback', 'up-sell', 'gift']"
+travel and leisure,"['up-sell', 'welcome', 'discount', 'cashback', 'early-access', 'gift']"
+food and beverages,"['early-access', 'loyalty']"
+office supplies,"['discount', 'up-sell', 'welcome', 'cashback', 'gift']"
+food and beverages,"['cashback', 'loyalty']"
+fashion,"['discount', 'cashback', 'welcome']"
+pet supplies,"['gift', 'loyalty', 'cashback', 'early-access', 'up-sell', 'discount']"
+music,"['welcome', 'discount', 'cashback', 'loyalty', 'early-access', 'up-sell', 'gift']"
+art and crafts,['discount']
+home and kitchen,"['early-access', 'welcome', 'loyalty', 'discount', 'gift', 'up-sell']"
+art and crafts,[]
+garden and outdoor,"['cashback', 'welcome', 'discount', 'early-access', 'loyalty', 'gift']"
+education and learning,"['up-sell', 'discount', 'cashback', 'gift', 'early-access', 'loyalty', 'welcome']"
