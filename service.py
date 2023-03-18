@@ -18,8 +18,8 @@ def get_predict_bonus():
   args = request.args
   bonus = []
   if 'client_id' in args and 'store_id' in args:
-    bonus = predict_bonus(int(args['client_id']), int(args['store_id']), gbc_clf, client_db, merchant_db, service_params)
-  return json.dumps([{"bonus": bonus}])
+    bonus, prob = predict_bonus(int(args['client_id']), int(args['store_id']), gbc_clf, client_db, merchant_db, service_params)
+  return json.dumps([{"bonus": bonus, 'probability': prob}])
 
 @api.route('/predict_neighbours', methods=['GET'])
 def get_predict_neighbours():

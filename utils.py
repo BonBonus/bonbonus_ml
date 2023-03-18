@@ -67,11 +67,12 @@ def predict_bonus(client_id, store_id, model, client_database, merchant_database
     client_record = client_database.iloc[client_id]
     client_vector = vectorize_for_bonus_predict(client_record, store_id, merchant_database, service_params, train=False)
     client_vector = np.array(client_vector).astype(np.float32)
-    prediction = model.predict_proba(client_vector.reshape(1,-1)).argmax()-1
-    if prediction >= 0:
-        return service_params.bonus_type[prediction]
+    prediction_pdf = model.predict_proba(client_vector.reshape(1,-1))[0]
+    predict_index = prediction_pdf.argmax()
+    if predict_index >= 1:
+        return service_params.bonus_type[predict_index-1], prediction_pdf[predict_index]
     else:
-        return ''
+        return '', 0.0
     
 def predict_neighbours(client_id, model, client_database, service_params: ServiceParams) -> list:
     if client_id not in client_database.index:
