@@ -28,6 +28,10 @@ def get_predict_neighbours():
     if 'client_id' in args:
       neighbours, similarity = predict_neighbours(int(args['client_id']), nbrs_clf, client_db, service_params)
     return json.dumps([{"neighbours": neighbours.tolist()}])
+  
+@api.route('/health', methods=['GET'])
+def health():
+    return "OK"
 
 if __name__ == '__main__':
     gbc_clf = pickle.load(open('data/gbc.clf', 'rb'))
