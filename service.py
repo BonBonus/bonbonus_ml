@@ -20,7 +20,7 @@ def get_predict_bonus():
   args = request.args
   bonus = []
   if 'client_id' in args and 'store_id' in args and 'rating' in args:
-    bonus, prob = predict_bonus(int(args['client_id']), int(args['store_id']), float(args['rating']) gbc_clf, client_db, merchant_db, service_params)
+    bonus, prob = predict_bonus(int(args['client_id']), int(args['store_id']), float(args['rating']), gbc_clf, client_db, merchant_db, service_params)
     return json.dumps([{"bonus": bonus, 'probability': prob}])
   else:
     return "Missing values: client_id, store_id, rating"
@@ -31,7 +31,7 @@ def get_predict_neighbours():
     neighbours = ''
     if 'client_id' in args:
       neighbours, similarity = predict_neighbours(int(args['client_id']), nbrs_clf, client_db, service_params)
-    return json.dumps([{"neighbours": neighbours.tolist(), 'similarity': similarity}])
+    return json.dumps([{"neighbours": neighbours.tolist(), 'similarity': similarity.round(2).tolist()}])
   
 @api.route('/health', methods=['GET'])
 def health():
