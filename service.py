@@ -46,6 +46,6 @@ if __name__ == '__main__':
     client_db = pd.read_csv('data/test_db.csv')
     merchant_db = pd.read_csv('data/merchants_db.csv')
     try:
-      api.run(host='127.0.0.1', port=os.getenv('PORT'))
+      api.run(host='0.0.0.0', port=os.getenv('PORT'))
     except:
       print("failed to run on port 80, rerun on default")
