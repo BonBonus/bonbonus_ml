@@ -4,6 +4,9 @@ Install
 * pip install requirements.txt
 * pip install .
 
+Run
+* python3 service.py
+
 Example to predict bonus:
 http://127.0.0.1:5000/predict_bonus?client_id=88&store_id=308
 
