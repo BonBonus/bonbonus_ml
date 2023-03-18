@@ -2,6 +2,8 @@ from flask import Flask, json, request
 from utils import predict_bonus, predict_neighbours
 import pandas as pd
 import pickle
+import zipfile
+import os
 
 gbc_clf = None
 nbrs_clf = None
@@ -34,9 +36,16 @@ def health():
     return "OK"
 
 if __name__ == '__main__':
+    with zipfile.ZipFile('data/gbc.zip', 'r') as zip_ref:
+      zip_ref.extractall('data/')
+    with zipfile.ZipFile('data/nbrs.zip', 'r') as zip_ref:
+      zip_ref.extractall('data/')
     gbc_clf = pickle.load(open('data/gbc.clf', 'rb'))
     nbrs_clf = pickle.load(open('data/nbrs.clf', 'rb'))
     service_params = pickle.load(open('data/service.params', 'rb'))
     client_db = pd.read_csv('data/test_db.csv')
     merchant_db = pd.read_csv('data/merchants_db.csv')
-    api.run()
+    try:
+      api.run(host='127.0.0.1', port=os.getenv('PORT'))
+    except:
+      print("failed to run on port 80, rerun on default")
