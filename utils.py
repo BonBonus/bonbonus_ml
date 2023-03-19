@@ -63,7 +63,7 @@ def vectorize_for_neighbours_predict(row, params: ServiceParams):
 def predict_bonus(client_id, store_id, rating: float, model, client_database, merchant_database, service_params: ServiceParams) -> str:
     if client_id not in client_database.index:
         return ''
-    client_record = client_database.iloc[client_id]
+    client_record = client_database.iloc[client_id].copy()
     client_record.rating = rating
     client_vector = vectorize_for_bonus_predict(client_record, store_id, merchant_database, service_params, train=False)
     client_vector = np.array(client_vector).astype(np.float32)
